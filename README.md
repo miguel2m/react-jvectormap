@@ -10,7 +10,7 @@ Please feel free to contribute, open issues or just enjoy this library!
 
 Install the library:
 
-    npm install --save react-jvectormap
+    npm install --save react-jvectormap-ven
 
 Include the jvectormap.css file in your project:
 
