@@ -1,7 +1,7 @@
 import React from 'react';
 import './VectorMap.scss';
 import PropTypes from 'prop-types';
-import maps from './../maps';
+import maps from './../maps/';
 
 const $ = window.jQuery;
 
@@ -18,9 +18,9 @@ class VectorMap extends React.PureComponent {
      */
     componentWillMount() {
         const { map } = this.props;
-
-        if (map && maps.indexOf(map) !== -1) {
-            require(`./../maps/${map}`);
+        //require(`./../maps/ve_merc`);
+        if (map && map === 've_merc') {
+            require(`./../maps/ve_merc`);
         } else {
             throw new Error(`No such map, please select one of the following: ${maps.join()}`);
         }

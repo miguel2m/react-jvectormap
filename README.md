@@ -61,27 +61,6 @@ You can allways add a `ref` to your VectorMap and access the following methods (
 
 ## Supported Maps
 
-* world_mill
-* us_aea
-* europe_mill
-* continents_mill
-* ch_mill
-* oceania_mill
-* africa_mill
-* asia_mill
-* north_america_mill
-* south_america_mill
-* ca_lcc
-* brazil
-* se_mill
-* es_mill
-* vietnam
-* indonesia
-* th_mill
-* de_mill
-* ar_mill
-* au_mill
-* kr_mill
-* co_mill
+* ve_merc
 
 **Please feel free to request new maps! just open an issue!**
