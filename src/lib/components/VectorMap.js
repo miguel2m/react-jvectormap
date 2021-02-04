@@ -95,7 +95,7 @@ class VectorMap extends React.PureComponent {
 VectorMap.propTypes = {
     containerStyle: PropTypes.object,
     containerClassName: PropTypes.string,
-    map: PropTypes.oneOf(maps).isRequired,
+    map: PropTypes.isRequired,
     backgroundColor: PropTypes.string,
     zoomOnScroll: PropTypes.bool,
     zoomOnScrollSpeed: PropTypes.bool,
