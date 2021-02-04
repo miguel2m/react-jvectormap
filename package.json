@@ -14,9 +14,9 @@
   },
   "author": "Fork from Kadosh <https://github.com/kadoshms/react-jvectormap> ",
   "bugs": {
-    "url": "https://github.com/kadoshms/react-jvectormap/issues"
+    "url": "https://github.com/miguel2m/react-jvectormap/issues"
   },
-  "homepage": "https://github.com/kadoshms/react-jvectormap",
+  "homepage": "https://github.com/miguel2m/react-jvectormap",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "7.1.2",
