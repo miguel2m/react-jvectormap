@@ -71,6 +71,14 @@ class VectorMap extends React.PureComponent {
         return this.$mapObject;
     }
 
+    /**
+     * get jvector map object
+     * @returns {null|*}
+     */
+    setValues(value ={}) {
+        return this.$mapObject.setValues(value);
+    }
+
     render() {
 
         const props = {};
