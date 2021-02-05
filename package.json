@@ -1,6 +1,6 @@
 {
   "name": "react-jvectormap-ven",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "A Venezuelan jvectormap wrapper for React apps",
   "main": "build/index.js",
   "scripts": {
